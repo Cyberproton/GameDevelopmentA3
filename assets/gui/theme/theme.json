@@ -1,0 +1,104 @@
+{
+  "defaults": {
+    "colours": {
+      "normal_bg": "#000000",
+      "normal_border": "#000000",
+      "active_bg": "#000000",
+      "hovered_bg": "#000000",
+      "disabled_bg": "#000000",
+      "selected_bg": "#000000",
+      "normal_text": "#FFFFFF",
+      "hovered_text": "#00FFFF",
+      "selected_text": "#000000",
+      "disabled_text": "#000000",
+      "active_text": "#000000",
+      "hovered_border": "#000000",
+      "disabled_border": "#000000",
+      "selected_border": "#000000",
+      "active_border": "#000000",
+      "normal_text_shadow": "#000000",
+      "hovered_text_shadow": "#000000",
+      "disabled_text_shadow": "#000000",
+      "selected_text_shadow": "#000000",
+      "active_text_shadow": "#000000"
+    },
+    "font": {
+      "name": "upheavtt",
+      "size": 12,
+      "regular_path": "./assets/gui/font/upheavtt.ttf"
+    }
+  },
+  "button": {
+    "colours": {
+      "normal_bg": "#000000",
+      "normal_border": "#000000",
+      "active_bg": "#000000",
+      "hovered_bg": "#000000",
+      "disabled_bg": "#000000",
+      "selected_bg": "#000000",
+      "normal_text": "#FFFFFF",
+      "hovered_text": "#FFFF00",
+      "selected_text": "#000000",
+      "disabled_text": "#000000",
+      "active_text": "#000000",
+      "hovered_border": "#000000",
+      "disabled_border": "#000000",
+      "selected_border": "#000000",
+      "active_border": "#000000",
+      "normal_text_shadow": "#000000",
+      "hovered_text_shadow": "#000000",
+      "disabled_text_shadow": "#000000",
+      "selected_text_shadow": "#000000",
+      "active_text_shadow": "#000000"
+    },
+    "font": {
+      "name": "upheavtt",
+      "size": 72,
+      "regular_path": "./assets/gui/font/upheavtt.ttf"
+    }
+  },
+  "label": {
+    "colours": {
+      "normal_bg": "#000000",
+      "normal_border": "#000000",
+      "active_bg": "#000000",
+      "hovered_bg": "#000000",
+      "disabled_bg": "#000000",
+      "selected_bg": "#000000",
+      "normal_text": "#FFFFFF",
+      "hovered_text": "#00FFFF",
+      "selected_text": "#000000",
+      "disabled_text": "#000000",
+      "active_text": "#000000",
+      "hovered_border": "#000000",
+      "disabled_border": "#000000",
+      "selected_border": "#000000",
+      "active_border": "#000000",
+      "normal_text_shadow": "#000000",
+      "hovered_text_shadow": "#000000",
+      "disabled_text_shadow": "#000000",
+      "selected_text_shadow": "#000000",
+      "active_text_shadow": "#000000"
+    },
+    "font": {
+      "name": "upheavtt",
+      "size": 12,
+      "regular_path": "./assets/gui/font/upheavtt.ttf"
+    }
+  },
+  "progress_bar": {
+    "colours": {
+      "normal_text": "#c5cbd8",
+      "text_shadow": "#777777",
+      "normal_border": "#DDDDDD",
+      "filled_bar": "#f4251b,#A4150b,180",
+      "unfilled_bar": "#CCCCCC"
+    },
+    "font": {
+      "name": "montserrat",
+      "size": "12",
+      "bold": "0",
+      "italic": "1"
+    }
+  }
+}
